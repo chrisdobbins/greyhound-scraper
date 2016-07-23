@@ -1,1 +1,5 @@
-#*
+*.js~
+*.html~
+*.jscsrc
+*.js#
+*.gitignore~
